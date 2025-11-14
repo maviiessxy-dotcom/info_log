@@ -11,6 +11,8 @@ A atividade tem o objetivo de apresentar o conhecimento dos membros do grupo.
 ## atividade 3: tabelas e dados NCM
 <img width="828" height="466" alt="image" src="https://github.com/user-attachments/assets/c3a1016d-8781-404d-b932-d60e11d8f79e" />
 
+Esta atividade tem como objetivo extrair os códigos NCM e, por meio do uso de filtros, personalizar uma tabela dinâmica no Excel para facilitar a identificação de dados específicos.
+
 ## atividade 4: interpretação de dados no Power BI:
 <img width="829" height="437" alt="image" src="https://github.com/user-attachments/assets/f1fd268a-4fc4-4beb-bfbf-afa598247404" />
 
