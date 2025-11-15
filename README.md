@@ -9,6 +9,7 @@ A atividade tem o objetivo de apresentar o conhecimento dos membros do grupo.
 <img width="1637" height="1012" alt="Captura de tela 2025-09-19 193432" src="https://github.com/user-attachments/assets/b50ea56c-75e6-4cb7-8a97-2ac300e13a69" />
 
 ## atividade 3: tabelas e dados NCM
+https://drive.google.com/drive/folders/1qV7VSUXJB0DysxWtMlY-Qk0aScG8OHS0
 <img width="828" height="466" alt="image" src="https://github.com/user-attachments/assets/c3a1016d-8781-404d-b932-d60e11d8f79e" />
 
 Esta atividade tem como objetivo extrair os códigos NCM e, por meio do uso de filtros, personalizar uma tabela dinâmica no Excel para facilitar a identificação de dados específicos.
